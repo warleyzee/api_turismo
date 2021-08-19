@@ -1,4 +1,4 @@
-# api_turismo
+# API Turismo
 API criada usando o PYTHON, REST, RESTFUL, DJANGO REST FRAMEWORK. 
 
 Um CRUD completo  
